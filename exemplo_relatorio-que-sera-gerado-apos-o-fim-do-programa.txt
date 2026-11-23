@@ -1,5 +1,6 @@
 ESSE É UM EXEMPLO DE RELATORIO QUE SERÁ GERADO NA MESMA PASTA ONDE ESTARÁ PRESENTE O PROGRAMA APÓS O ENCERAMENTO DO MESMO.
-Ele estará nesse mesmo modelo mas adaptado para as suas escolhas durante a execução do programa, mostrando um resultado diferente dependendo da palavra que escolher e de outros valores pedidos como do modulo m e da matriz.
+Ele estará nesse mesmo modelo mas adaptado para as suas escolhas durante a execução do programa, mostrando um resultado diferente 
+dependendo da palavra que escolher e de outros valores pedidos como do modulo m e da matriz.
 
 ======================================================================
        RELATÓRIO TÉCNICO - CIFRA DE HILL GENERALIZADA (ANEL Z_m)      
@@ -64,3 +65,4 @@ Ele estará nesse mesmo modelo mas adaptado para as suas escolhas durante a exec
    - Status Final    : APROVADA (100% idêntico)
 
 ======================================================================
+
